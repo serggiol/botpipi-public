@@ -1,1 +1,1 @@
-# botpipi
+# botpipi-public
